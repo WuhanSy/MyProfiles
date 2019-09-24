@@ -1,4 +1,4 @@
-DOMAIN,openwrt.com
-DOMAIN,nas.com
-DOMAIN,backup.com
-DOMAIN,asus.com
+DOMAIN-SUFFIX,openwrt.com
+DOMAIN-SUFFIX,nas.com
+DOMAIN-SUFFIX,backup.com
+DOMAIN-SUFFIX,asus.com
