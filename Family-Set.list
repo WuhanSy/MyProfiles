@@ -1,7 +1,6 @@
-DOMAIN-SUFFIX,lede.com,🏠 Family
-DOMAIN-SUFFIX,nas.com,🏠 Family
-DOMAIN-SUFFIX,backup.com,🏠 Family
-DOMAIN-SUFFIX,asus.com,🏠 Family
-DOMAIN-SUFFIX,download.com,🏠 Family
-DOMAIN,192.168.1.10,🏠 Family
+DOMAIN-SUFFIX,lede.com
+DOMAIN-SUFFIX,nas.com
+DOMAIN-SUFFIX,backup.com
+DOMAIN-SUFFIX,download.com
+DOMAIN,192.168.1.10
 
