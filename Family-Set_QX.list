@@ -1,1 +1,5 @@
-1
+DOMAIN-SUFFIX,lede.com, FamilyHost
+DOMAIN-SUFFIX,nas.com, FamilyHost
+DOMAIN-SUFFIX,backup.com, FamilyHost
+DOMAIN-SUFFIX,download.com, FamilyHost
+DOMAIN,192.168.1.10, FamilyHost
