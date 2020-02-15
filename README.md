@@ -1,5 +1,7 @@
 # Rules
 
-'''
-个人规则备份
-'''
+```javascript
+$(document).ready(function () {
+    alert('RUNOOB');
+});
+```
